@@ -1,0 +1,12 @@
+:root {
+    --pf-global--primary-color--100: rgb(86, 172, 191);
+    --pf-global--primary-color--200: rgb(86, 172, 191);
+    --pf-global--active-color--100:rgb(86, 172, 191);
+    --default-background-color: rgb(86, 172, 191);
+    --link-hover-color: rgb(86, 172, 191);
+}
+body.kcBodyClass {
+    background: url(/lupise-bg.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
